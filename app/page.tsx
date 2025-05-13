@@ -14,7 +14,7 @@ export default function LandingPage() {
           <div className="flex gap-6 md:gap-10">
             <Link href="/" className="flex items-center space-x-2">
               <span className="inline-block font-bold text-xl bg-gradient-to-r from-teal-500 to-emerald-500 bg-clip-text text-transparent">
-                EventProLink
+                Provena
               </span>
             </Link>
             <nav className="hidden gap-6 md:flex">
